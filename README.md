@@ -28,4 +28,5 @@ This project is a QR Code generator implemented using HTML, CSS, and JavaScript.
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
-
+## Visit The Project
+ We can visit the project on this link :https://bharathayancha.github.io/QR_Code_Generator/
